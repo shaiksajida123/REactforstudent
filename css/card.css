@@ -1,0 +1,19 @@
+body{
+	background-color:#61CF86;
+	}
+#main
+{
+    background-color:#91DDAA;
+    margin:10%;
+   /* padding:4%;*/
+    display:flex;
+    justify-content:space-between;
+    border-radius: 4%;
+}
+.card{
+	background-color:#39784E;
+	width:25%;
+	margin:4%;
+	border-radius: 5%;
+	text-align: center;
+}
